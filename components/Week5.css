@@ -1,0 +1,92 @@
+
+/* .studentComponent {
+    padding: 50px;
+    width: 98%;
+    margin: auto;
+    padding: 25px;
+    background-color: rgb(21, 21, 21);
+  } */
+  
+  #Card1 {
+    border: 5px solid black;
+    border-radius: 10px;
+    /* margin-bottom: 20px; */
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(233, 66, 66, 0.1);
+    max-width: 95%;
+    background-color: rgb(208, 190, 57);
+  }
+  
+  /* .image-container {
+    height: 100%;
+  }
+  
+  .card-img-top {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+  }
+  
+  .card-body {
+    padding: 50px;
+  }
+  
+  .card-title {
+    font-size: 0.7rem;
+    margin-bottom: 50px;
+  }
+   */
+  /* .card-subtitle { */
+    /* color: #248ae4;  */
+    /* font-size: 1rem; */
+    /* margin-bottom: 5px; */
+    /* color: aquamarine; */
+  /* } */
+  
+  /* .card-text {
+    font-size: 1rem;
+  } */
+  /* CSS for Student Component */
+  
+  /* .studentComponent {
+      padding: 18px;
+    }
+    
+    .card {
+      border: 1px solid #ccc;
+      border-radius: 50px;
+      margin-bottom: 20px;
+      overflow: hidden;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+    
+    .card-body {
+      padding: 5px;
+    }
+    
+    .card-title {
+      font-size: 1.2rem;
+      margin-bottom: 10px;
+    } */
+    
+    /* .card-subtitle { */
+      /* color: #2c6ea8; Secondary text color */
+      /* font-size: 1rem;
+      margin-bottom: 5px;
+    } */
+/*     
+    .card-text {
+      font-size: 1rem;
+      margin-bottom: 5px;
+    }
+    
+    .card-link {
+      color: #b2182f;  */
+      /* text-decoration: none;
+    }
+    
+    .card-link:hover {
+      text-decoration: none;
+    } */

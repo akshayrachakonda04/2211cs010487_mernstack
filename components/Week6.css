@@ -1,0 +1,105 @@
+*{
+    background-color: black;
+    color: white;
+}
+.container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px; /* Add margin bottom for spacing */
+  }
+  
+  .output {
+  
+    padding-top: 30px;
+    width: 100%;
+  
+  }
+  
+  .welcome,
+  .user-info,
+  .user-type {
+    padding: 30px;
+    margin-bottom: 10px;
+    color: #b921d1;
+  }
+  
+  .user-type {
+    font-weight: bold; /* Make user type text bold */
+  }
+  
+  .logs{
+    color: #b921d1;
+  }
+  
+  .student-details {
+    margin-top: 20px;
+    font-size: 30px;
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: row; 
+    justify-content: center;
+   color: white;
+   gap: 50px;
+  }
+  
+  .student-card {
+    border: 3px solid #b921d1;
+    border-radius: 5px;
+    padding: 20px; /* Reduced padding for a smaller size */
+    margin: 10px; /* Add margin between cards */
+    width: calc(50% - 20px); /* Set width of each card, subtracting margin */
+    max-width: 800px; /* Limit max width of the cards */
+    
+  }
+  
+  .student-card h3 {
+    margin-top: 0;
+    font-size: 50px; /* Reduced font size of student name */
+  }
+  
+  .student-card p {
+    margin: 15px 0; /* Reduced paragraph margin */
+    color: white;
+  }
+  
+  .cont2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .heading{
+    background-color: rgb(160, 32, 220);
+    color: white;
+    margin-top: 25px;
+    padding: 45px;
+  }
+
+  .btn button, .btn-log{
+    color: white;
+    margin: 11px;
+    padding: 15px;
+    background-color: #b921d1;
+    border: none;
+    width: 130px;
+    border-radius: 25px;
+    font-weight: 500;
+    font-size: 17px;
+  }
+  .student-card:hover{
+    transform: translateY(-8px);
+  }
+
+  .btn-log:hover{
+    background-color: black;
+    transition: 0.45s;
+  }
+
+   .btn :hover{
+    background-color: black;
+    transition: 0.45s;
+  } 
+
